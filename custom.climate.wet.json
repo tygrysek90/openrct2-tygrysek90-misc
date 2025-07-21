@@ -1,0 +1,119 @@
+{
+    "id": "custom.climate.wet",
+    "authors": [
+        "Ríša Szlachta (github: tygrysek90)"
+    ],
+    "version": "0.1",
+    "objectType": "climate",
+    "scriptName": "wetForRedditorThadakism",
+    "strings": {
+        "name": {
+            "en-GB": "Wet",
+            "ar-EG": "بارد ",
+            "ca-ES": "Humit",
+            "cs-CZ": "Mokro",
+            "da-DK": "Vådt",
+            "de-DE": "Feucht",
+            "eo-ZZ": "Malseka",
+            "es-ES": "Húmedo",
+            "fi-FI": "Sateinen",
+            "fr-FR": "Humide",
+            "gl-ES": "Húmido",
+            "hu-HU": "Nedves",
+            "it-IT": "Umido",
+            "ja-JP": "濡れた膣",
+            "ko-KR": "젖은 질",
+            "nb-NO": "Vått",
+            "nl-NL": "Nat",
+            "pl-PL": "Mokro",
+            "pt-BR": "Úmido",
+            "ru-RU": "Пизда",
+            "sv-SE": "Blött",
+            "tr-TR": "Islak",
+            "uk-UA": "Пизда",
+            "zh-CN": "陰道濕潤",
+            "zh-TW": "陰道濕潤"
+        }
+    },
+    "properties": {
+        "coldItemTempThreshold": 8,
+        "warmItemTempThreshold": 30
+    },
+    "weather": {
+        "march": { 
+            "baseTemperature": 8,
+            "randomBias": 23,
+            "distribution": {
+                "thunder": 23
+            },
+            "distRotation": 0
+        },
+        "april": {
+            "baseTemperature": 8,
+            "randomBias": 23,
+            "distribution": {
+                "rain": 3,
+                "heavyRain": 10,
+                "thunder": 10
+            },
+            "distRotation": 0
+        },
+        "may": {
+            "baseTemperature": 8,
+            "randomBias": 23,
+            "distribution": {
+                "rain": 1,
+                "heavyRain": 2,
+                "thunder": 20
+            },
+            "distRotation": 0
+        },
+        "june": {
+            "baseTemperature": 8,
+            "randomBias": 23,
+            "distribution": {
+                "rain": 10,
+                "heavyRain": 3,
+                "thunder": 10
+            },
+            "distRotation": 0
+        },
+        "july": {
+            "baseTemperature": 8,
+            "randomBias": 23,
+            "distribution": {
+                "rain": 10,
+                "heavyRain": 10,
+                "thunder": 3
+            },
+            "distRotation": 0
+        },
+        "august": {
+            "baseTemperature": 8,
+            "randomBias": 23,
+            "distribution": {
+                "rain": 10,
+                "heavyRain": 10,
+                "thunder": 3
+            },
+            "distRotation": 0
+        },
+        "september": {
+            "baseTemperature": 8,
+            "randomBias": 23,
+            "distribution": {
+                "heavyRain": 3,
+                "thunder": 20
+            },
+            "distRotation": 0
+        },
+        "october": {
+            "baseTemperature": 8,
+            "randomBias": 23,
+            "distribution": {
+                "thunder": 23
+            },
+            "distRotation": 0
+        }
+    }
+}
