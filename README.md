@@ -14,7 +14,7 @@ https://github.com/tygrysek90/openrct2-tygrysek90-misc/blob/main/custom.climate.
 
 Czech peep names
 ----------------
-https://github.com/tygrysek90/openrct2-tygrysek90-misc/blob/main/custom.peep_names.czech.png
+get at https://github.com/tygrysek90/openrct2-tygrysek90-misc/blob/main/tygrysek90.peep_names.czech_shrt.parkobj
 
 ![alt text][screen2]
 
