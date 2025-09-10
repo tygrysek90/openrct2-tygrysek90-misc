@@ -1,6 +1,16 @@
 # openrct2-tygrysek90-misc
 My misc creations for use in OpenRCT2
 
+
+Czech peep names
+----------------
+get at https://github.com/tygrysek90/openrct2-tygrysek90-misc/blob/main/tygrysek90.peep_names.czech_shrt.parkobj
+
+![alt text][screen2]
+
+[screen2]: https://github.com/tygrysek90/openrct2-tygrysek90-misc/blob/main/custom.peep_names.czech.png?raw=true "xxxxx"
+
+
 Wet weather object
 ------------------
 https://raw.githubusercontent.com/tygrysek90/openrct2-tygrysek90-misc/refs/heads/main/custom.climate.wet.json
@@ -11,11 +21,3 @@ https://github.com/tygrysek90/openrct2-tygrysek90-misc/blob/main/custom.climate.
 
 [screen]: https://raw.githubusercontent.com/tygrysek90/openrct2-tygrysek90-misc/refs/heads/main/climate.wet.png "xxxxx"
 
-
-Czech peep names
-----------------
-get at https://github.com/tygrysek90/openrct2-tygrysek90-misc/blob/main/tygrysek90.peep_names.czech_shrt.parkobj
-
-![alt text][screen2]
-
-[screen2]: https://github.com/tygrysek90/openrct2-tygrysek90-misc/blob/main/custom.peep_names.czech.png?raw=true "xxxxx"
