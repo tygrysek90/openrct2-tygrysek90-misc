@@ -6,7 +6,7 @@ Czech peep names - Česká jména človíčků
 
 <img width="350" height="383" alt="Snímek obrazovky z 2025-10-25 17-22-08" src="https://github.com/user-attachments/assets/f842c81e-3e17-4172-a84f-327bbb853c6a" />
 
-Czech peep names, goes particuarly well with Czech localisation of OpenRCT2. Please note that peep names objects are currently (25th Oct 2025) affected by [OpenRCT2 Issue #25402](https://github.com/OpenRCT2/OpenRCT2/issues/25402) "Peep name objects only use the first 16 surnames"
+Czech peep names, goes particuarly well with Czech localisation of OpenRCT2. Please note that peep names objects are currently (25th of Oct 2025) affected by [OpenRCT2 Issue #25402](https://github.com/OpenRCT2/OpenRCT2/issues/25402) "Peep name objects only use the first 16 surnames"
 
 **_cs-CZ:_** Česká jména človíčků pro OpenRCT2. Prosím, mějte na paměti, že v současné chvíli (25. října 2025) je používání objektů jmen omezeno chybou OpenRCT2 #25402, zobrazuje se pouze prvních šesnáct písmen pro příjmení.
 
