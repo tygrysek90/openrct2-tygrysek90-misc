@@ -1,3 +1,6 @@
+#### I have ceased my activities on GitHub. Contents of this repository are no longer maintained.
+
+
 ## Misc object creations for use in OpenRCT2
 
 
